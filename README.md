@@ -1,6 +1,6 @@
-# itlwm
+# itlwm builds
 
-**An Intel Wi-Fi Adapter Kernel Extension for macOS, based on the OpenBSD Project.**
+**An Intel Wi-Fi Adapter Kernel Extension for macOS, based on the OpenBSD Project. I just build it here.**
 
 ## Documentation
 
